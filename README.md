@@ -13,4 +13,4 @@ Session isolation + recording — privileged connections proxied through a harde
 Just-in-time, least-privilege elevation — eliminate standing admin; grant the minimum rights only at moment of need.
 Monitor & report — detect anomalous privileged behavior and retain evidence.
 
-- Denise Banks
+Denise Banks
